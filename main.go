@@ -132,7 +132,10 @@ func Loop() {
 	var send string
 	fmt.Scan(&send)
 	if strings.ToLower(send) == "s" {
-		sendFile("main.go")
+		fmt.Printf(placeholder.Render("what file do you want to send (path): "))
+		var file string
+		fmt.Scanln(&file)
+		sendFile(file)
 	} else if strings.ToLower(send) == "r" {
 		StopListening = false
 		server := &FileServer{}
