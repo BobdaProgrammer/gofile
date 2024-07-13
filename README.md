@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://raw.githubusercontent.com/BobdaProgrammer/gofile/main/.github/gofile.png" width="80px"><br/>gofile</h1>
+      <h1> <img src="https://github.com/BobdaProgrammer/gofile/blob/main/.github/GoFile.png" width="80px"><br/>gofile</h1>
      </div>
 <p align="center"> <a href="https://github.com/BobdaProgrammer/gofile" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-302D41?style=for-the-badge&logo=github" style="vertical-align:center" /></a>
 </p>
